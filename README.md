@@ -1,2 +1,2 @@
-# bot_id
+# bot
 https://github.com/freeusr0/rat-bot
